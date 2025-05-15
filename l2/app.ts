@@ -41,3 +41,6 @@ console.log(person)
 
 // ## Interview Bit :
 // diff b/w object and typescripts defination of types (ends  with , and ; respectively )
+
+
+// instead of defining the objecttypes in {} we can have a thought of using the keyword object but..thta doesnt points to the real world object..we even dont know whats inside the object..wheatyer  empty or any other
